@@ -1,0 +1,44 @@
+body {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+h2 {
+    display: flex;
+    align-self: center;
+    margin-bottom: -20px;
+}
+
+.docs a {
+    margin: 20px;
+    padding: 10px;
+    width: 250px;
+    font-family: "BankGothic";
+    font-size: 20px;
+    text-align: center;
+    background-color: blue;
+    color: black;
+}
+
+.desc p {
+    width: 1000px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    align-self: center;
+}
+
+.desc {
+    display: flex;
+    flex-direction: column;
+}
+
+#conclusion {
+    margin-top: -70px;
+}
+
+.docs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

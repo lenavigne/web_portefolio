@@ -1,0 +1,79 @@
+.realisation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.type-real {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 1500px;
+    justify-content: center;
+    gap: 50px;
+}
+
+.type-real div {
+    width: 500px;
+    height: 300px;
+    box-shadow: 10px 10px  blue;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+
+.type-real p {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.dev {
+    background-image: url("../img/realisation_dev.PNG");
+    background-size: cover;
+}
+
+.vr {
+    background-image: url("../img/realisation_vr.PNG");
+    background-size: cover;
+}
+
+.modelisation {
+    background-image: url("../img/realisation_vr.PNG");
+    background-size: cover;
+}
+
+.dessins {
+    background-image: url("../img/realisation_dessin.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#ASCII {
+    background-image: url("../img/dev/ascii.jpg");
+    background-size: cover;
+}
+#indiana {
+    background-image: url("../img/dev/IndianaGirl_presentation.png");
+    background-size: cover;
+}
+
+#Chintomar {
+    background-image: url("../img/mode/chintomar_resultat.png");
+    background-size: cover;
+}
+#skowhouse {
+    background-image: url("../img/mode/skowhouse/skowhouse.PNG");
+    background-size: cover;
+    background-position: center;
+}
+#Fransylva {
+    background-image: url("../img/mode/fransylva/Fransylva_mascotte.png");
+    background-size: cover;
+}
+
+#makeru {
+    background-image: url("../img/vr/VR_makeru_maru.PNG");
+    background-size: cover;
+}

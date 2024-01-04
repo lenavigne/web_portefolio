@@ -1,0 +1,42 @@
+.presentation {
+    display: flex;
+    flex-direction: row;
+}
+
+#photo_profil {
+    width: 50%;
+    margin-bottom: -200px;
+}
+
+.moi {
+    margin: 50px;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.firstname {
+    display: flex;
+    flex-direction: row;
+    font-size: 100px;
+    text-align: left;
+    box-shadow: 0px 10px blue;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+.lastname {
+    font-family: "Mistral";
+    padding-left: 20px;
+}
+
+.desc {
+    display: flex;
+    align-self: flex-end;
+    text-align: right;
+    font-size: 30px;
+    width: auto;
+    box-shadow: 5px 5px  blue;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}

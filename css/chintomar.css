@@ -1,0 +1,42 @@
+img {
+    width: 650px;
+    height: 500px;
+    margin: 50px;
+}
+
+.desc {
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+}
+
+.desc p {
+    width: 650px;
+}
+
+#context {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+#context img {
+    display: flex;
+    align-self: center;
+}
+
+#contextp {
+    width: 1300px;
+}
+
+.corpus {
+    display: flex;
+    flex-direction: row;
+}
+
+#bigimg {
+    width: 1300px;
+    height: 731px;
+}
