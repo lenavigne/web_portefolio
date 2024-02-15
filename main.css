@@ -71,7 +71,7 @@ h1 {
   margin: 50px;
   font-size: 40px;
   text-align: center;
-  text-shadow: 5px 5px blue;
+  text-shadow: 5px 5px rgb(0, 0, 216);
 }
 
 button {
@@ -79,8 +79,8 @@ button {
   height: 50px;
   font-family: "BankGothic";
   font-size: 20px;
-  color: blue;
-  border-color: blue;
+  color: rgb(0, 0, 216);
+  border-color: rgb(0, 0, 216);
 }
 
 a {
