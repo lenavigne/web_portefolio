@@ -106,4 +106,15 @@
     width: 70%;
     height: 70%;
     gap: 50px;
+#compe-5::before {
+    background-image: url("../img/unity_logo.png");
+    background-size: cover;
+}
+#compe-6::before {
+    background-image: url("../img/unreal_engine_logo.png");
+    background-size: cover;
+}
+#compe-7::before {
+    background-image: url("../img/cinema4d_logo.png");
+    background-size: cover;
 }
