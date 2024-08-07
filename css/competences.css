@@ -78,11 +78,32 @@
 #compe-1::before {
     background-image: url("../img/NR.jpg");
 }
+#compe-2::before {
+    background-image: url("../img/POO.png");
+    background-size: cover;
+}
 #compe-3::before {
-    background-image: url("../img/C++.png");
+    background-image: url("../img/C.png");
     background-size: cover;
 }
 #compe-4::before {
+    background-image: url("../img/C++.png");
+    background-size: cover;
+}
+#compe-5::before {
     background-image: url("../img/Csharp.png");
     background-size: cover;
+}
+
+.compe-lang {
+    display: flex;
+    flex-direction: column;
+}
+
+#langages {
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    height: 70%;
+    gap: 50px;
 }
