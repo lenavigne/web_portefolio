@@ -129,3 +129,31 @@
     background-image: url("../img/cinema4d_logo.png");
     background-size: cover;
 }
+#compe-9::before {
+    background-image: url("../img/blender_3d_logo.png");
+    background-size: cover;
+}
+#compe-10::before {
+    background-image: url("../img/3ds_max_logo.png");
+    background-size: cover;
+}
+#compe-11::before {
+    background-image: url("../img/revit_logo.png");
+    background-size: cover;
+}
+#compe-12::before {
+    background-image: url("../img/substance_3d_painter_logo.png");
+    background-size: cover;
+}
+#compe-13::before {
+    background-image: url("../img/adobe_photoshop_logo.png");
+    background-size: cover;
+}
+#compe-14::before {
+    background-image: url("../img/indesign_logo.png");
+    background-size: cover;
+}
+#compe-15::before {
+    background-image: url("../img/affinity_designer_logo.png");
+    background-size: cover;
+}
